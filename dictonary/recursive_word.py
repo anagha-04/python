@@ -6,8 +6,16 @@ words = text.split()
 
 word_count = {}
 
-for w in set(words):
+for w in words:
 
-    word_count[w]= words.count(w)
+    if w in word_count:
 
-print(word_count)
+        word_count[w]+=1
+
+    else:
+
+        word_count[w]=1
+
+srt_wc = sorted(word_count,reverse=True,key=word_count.get)
+
+print(srt_wc)

@@ -21,10 +21,26 @@ print(chr_count)
 
 text = "goodmorning"
 
-chr_count = {}
+char_count ={}
 
 for ch in set(text):
 
-    chr_count[ch]=text.count(ch)
+    char_count[ch] = text.count(ch)
 
-print(chr_count)
+print(char_count)
+
+max_frequency = 0
+
+max_frequency_dictionary = {}
+
+for k,v in char_count.items():
+
+    if v>max_frequency:
+
+        max_frequency = v
+
+        max_frequency_dictionary.clear()
+
+        max_frequency_dictionary[k]=v
+        
+print(max_frequency_dictionary)
