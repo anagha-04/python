@@ -1,6 +1,6 @@
 
 
-lst = [1,2,4,5]
+lst = [1,2,4,6,7,9]
 #      0,1,2,3
 #      i j
 
@@ -12,6 +12,6 @@ for i in range(0,len(lst)-1):
 
     if difference!=1:
 
-        print(lst[i]+1,"is missing Number")
-
-        break
+     print(lst[i]+1)
+    
+        

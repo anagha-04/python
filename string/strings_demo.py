@@ -4,8 +4,8 @@
 #def rstrip("str")  from right
 #def lstrip("str") from left
 
-name = "anaghanil"
+name = "anaghaanilkumar"
 
-trim = name.strip( "il")
+trim = name.strip("a")
 
 print(trim)
