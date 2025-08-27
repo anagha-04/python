@@ -1,3 +1,4 @@
+
 countries=[
   {
     "name": "Afghanistan",
@@ -88,7 +89,7 @@ countries=[
       }
     ],
     "cioc": "AFG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Åland Islands",
@@ -160,7 +161,7 @@ countries=[
         "name": "European Union"
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Albania",
@@ -240,7 +241,7 @@ countries=[
       }
     ],
     "cioc": "ALB",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Algeria",
@@ -338,7 +339,7 @@ countries=[
       }
     ],
     "cioc": "ALG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "American Samoa",
@@ -411,7 +412,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/as.svg",
     "cioc": "ASA",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Andorra",
@@ -481,7 +482,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ad.svg",
     "cioc": "AND",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Angola",
@@ -567,7 +568,7 @@ countries=[
       }
     ],
     "cioc": "ANG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Anguilla",
@@ -630,7 +631,7 @@ countries=[
       "hu": "Anguilla"
     },
     "flag": "https://flagcdn.com/ai.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Antarctica",
@@ -695,7 +696,7 @@ countries=[
       "hu": "Antarktisz"
     },
     "flag": "https://flagcdn.com/aq.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Antigua and Barbuda",
@@ -770,7 +771,7 @@ countries=[
       }
     ],
     "cioc": "ANT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Argentina",
@@ -867,7 +868,7 @@ countries=[
       }
     ],
     "cioc": "ARG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Armenia",
@@ -950,7 +951,7 @@ countries=[
       }
     ],
     "cioc": "ARM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Aruba",
@@ -1020,7 +1021,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/aw.svg",
     "cioc": "ARU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Australia",
@@ -1092,7 +1093,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/au.svg",
     "cioc": "AUS",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Austria",
@@ -1176,7 +1177,7 @@ countries=[
       }
     ],
     "cioc": "AUT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Azerbaijan",
@@ -1250,7 +1251,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/az.svg",
     "cioc": "AZE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bahamas",
@@ -1326,7 +1327,7 @@ countries=[
       }
     ],
     "cioc": "BAH",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bahrain",
@@ -1403,7 +1404,7 @@ countries=[
       }
     ],
     "cioc": "BRN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bangladesh",
@@ -1480,7 +1481,7 @@ countries=[
       }
     ],
     "cioc": "BAN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Barbados",
@@ -1555,7 +1556,7 @@ countries=[
       }
     ],
     "cioc": "BAR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Belarus",
@@ -1653,7 +1654,7 @@ countries=[
       }
     ],
     "cioc": "BLR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Belgium",
@@ -1750,7 +1751,7 @@ countries=[
       }
     ],
     "cioc": "BEL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Belize",
@@ -1846,7 +1847,7 @@ countries=[
       }
     ],
     "cioc": "BIZ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Benin",
@@ -1932,7 +1933,7 @@ countries=[
       }
     ],
     "cioc": "BEN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bermuda",
@@ -1999,7 +2000,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/bm.svg",
     "cioc": "BER",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Bhutan",
@@ -2080,7 +2081,7 @@ countries=[
       }
     ],
     "cioc": "BHU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bolivia (Plurinational State of)",
@@ -2188,7 +2189,7 @@ countries=[
       }
     ],
     "cioc": "BOL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bonaire, Sint Eustatius and Saba",
@@ -2253,7 +2254,7 @@ countries=[
       "hu": "Bonaire"
     },
     "flag": "https://flagcdn.com/bq.svg",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bosnia and Herzegovina",
@@ -2343,7 +2344,7 @@ countries=[
       }
     ],
     "cioc": "BIH",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Botswana",
@@ -2435,7 +2436,7 @@ countries=[
       }
     ],
     "cioc": "BOT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bouvet Island",
@@ -2511,7 +2512,7 @@ countries=[
       "hu": "Bouvet-sziget"
     },
     "flag": "https://flagcdn.com/bv.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Brazil",
@@ -2612,7 +2613,7 @@ countries=[
       }
     ],
     "cioc": "BRA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "British Indian Ocean Territory",
@@ -2688,7 +2689,7 @@ countries=[
         ]
       }
     ],
-    "independent": true
+    "independent": True
   },
   {
     "name": "United States Minor Outlying Islands",
@@ -2747,7 +2748,7 @@ countries=[
       "hu": "Amerikai Egyesült Államok lakatlan külbirtokai"
     },
     "flag": "https://flagcdn.com/um.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Virgin Islands (British)",
@@ -2811,7 +2812,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/vg.svg",
     "cioc": "IVB",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Virgin Islands (U.S.)",
@@ -2878,7 +2879,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/vi.svg",
     "cioc": "ISV",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Brunei Darussalam",
@@ -2958,7 +2959,7 @@ countries=[
       }
     ],
     "cioc": "BRU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Bulgaria",
@@ -3038,7 +3039,7 @@ countries=[
       }
     ],
     "cioc": "BUL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Burkina Faso",
@@ -3130,7 +3131,7 @@ countries=[
       }
     ],
     "cioc": "BUR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Burundi",
@@ -3222,7 +3223,7 @@ countries=[
       }
     ],
     "cioc": "BDI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cambodia",
@@ -3303,7 +3304,7 @@ countries=[
       }
     ],
     "cioc": "CAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cameroon",
@@ -3397,7 +3398,7 @@ countries=[
       }
     ],
     "cioc": "CMR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Canada",
@@ -3486,7 +3487,7 @@ countries=[
       }
     ],
     "cioc": "CAN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cabo Verde",
@@ -3566,7 +3567,7 @@ countries=[
       }
     ],
     "cioc": "CPV",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cayman Islands",
@@ -3630,7 +3631,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ky.svg",
     "cioc": "CAY",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Central African Republic",
@@ -3724,7 +3725,7 @@ countries=[
       }
     ],
     "cioc": "CAF",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Chad",
@@ -3819,7 +3820,7 @@ countries=[
       }
     ],
     "cioc": "CHA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Chile",
@@ -3916,7 +3917,7 @@ countries=[
       }
     ],
     "cioc": "CHI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "China",
@@ -4005,7 +4006,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/cn.svg",
     "cioc": "CHN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Christmas Island",
@@ -4069,7 +4070,7 @@ countries=[
       "hu": "Karácsony-sziget"
     },
     "flag": "https://flagcdn.com/cx.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Cocos (Keeling) Islands",
@@ -4134,7 +4135,7 @@ countries=[
       "hu": "Kókusz-szigetek"
     },
     "flag": "https://flagcdn.com/cc.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Colombia",
@@ -4232,7 +4233,7 @@ countries=[
       }
     ],
     "cioc": "COL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Comoros",
@@ -4329,7 +4330,7 @@ countries=[
       }
     ],
     "cioc": "COM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Congo",
@@ -4421,7 +4422,7 @@ countries=[
       }
     ],
     "cioc": "CGO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Congo (Democratic Republic of the)",
@@ -4538,7 +4539,7 @@ countries=[
       }
     ],
     "cioc": "COD",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cook Islands",
@@ -4613,7 +4614,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ck.svg",
     "cioc": "COK",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Costa Rica",
@@ -4696,7 +4697,7 @@ countries=[
       }
     ],
     "cioc": "CRC",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Croatia",
@@ -4777,7 +4778,7 @@ countries=[
       }
     ],
     "cioc": "CRO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Cuba",
@@ -4848,7 +4849,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/cu.svg",
     "cioc": "CUB",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Curaçao",
@@ -4928,7 +4929,7 @@ countries=[
       "hu": "Curaçao"
     },
     "flag": "https://flagcdn.com/cw.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Cyprus",
@@ -5019,7 +5020,7 @@ countries=[
       }
     ],
     "cioc": "CYP",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Czech Republic",
@@ -5098,7 +5099,7 @@ countries=[
       }
     ],
     "cioc": "CZE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Denmark",
@@ -5179,7 +5180,7 @@ countries=[
       }
     ],
     "cioc": "DEN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Djibouti",
@@ -5283,7 +5284,7 @@ countries=[
       }
     ],
     "cioc": "DJI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Dominica",
@@ -5350,7 +5351,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/dm.svg",
     "cioc": "DMA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Dominican Republic",
@@ -5439,7 +5440,7 @@ countries=[
       }
     ],
     "cioc": "DOM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ecuador",
@@ -5528,7 +5529,7 @@ countries=[
       }
     ],
     "cioc": "ECU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Egypt",
@@ -5621,7 +5622,7 @@ countries=[
       }
     ],
     "cioc": "EGY",
-    "independent": true
+    "independent": True
   },
   {
     "name": "El Salvador",
@@ -5704,7 +5705,7 @@ countries=[
       }
     ],
     "cioc": "ESA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Equatorial Guinea",
@@ -5806,7 +5807,7 @@ countries=[
       }
     ],
     "cioc": "GEQ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Eritrea",
@@ -5937,7 +5938,7 @@ countries=[
       }
     ],
     "cioc": "ERI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Estonia",
@@ -6015,7 +6016,7 @@ countries=[
       }
     ],
     "cioc": "EST",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ethiopia",
@@ -6104,7 +6105,7 @@ countries=[
       }
     ],
     "cioc": "ETH",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Falkland Islands (Malvinas)",
@@ -6185,7 +6186,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Faroe Islands",
@@ -6255,7 +6256,7 @@ countries=[
       "hu": "Feröer"
     },
     "flag": "https://flagcdn.com/fo.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Fiji",
@@ -6340,7 +6341,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/fj.svg",
     "cioc": "FIJ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Finland",
@@ -6426,7 +6427,7 @@ countries=[
       }
     ],
     "cioc": "FIN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "France",
@@ -6522,7 +6523,7 @@ countries=[
       }
     ],
     "cioc": "FRA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "French Guiana",
@@ -6611,7 +6612,7 @@ countries=[
         "name": "European Union"
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "French Polynesia",
@@ -6679,7 +6680,7 @@ countries=[
       "hu": "Francia Polinézia"
     },
     "flag": "https://flagcdn.com/pf.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "French Southern Territories",
@@ -6755,7 +6756,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Gabon",
@@ -6840,7 +6841,7 @@ countries=[
       }
     ],
     "cioc": "GAB",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Gambia",
@@ -6922,7 +6923,7 @@ countries=[
       }
     ],
     "cioc": "GAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Georgia",
@@ -6994,7 +6995,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ge.svg",
     "cioc": "GEO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Germany",
@@ -7078,7 +7079,7 @@ countries=[
       }
     ],
     "cioc": "GER",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ghana",
@@ -7161,7 +7162,7 @@ countries=[
       }
     ],
     "cioc": "GHA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Gibraltar",
@@ -7233,7 +7234,7 @@ countries=[
         "name": "European Union"
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Greece",
@@ -7313,7 +7314,7 @@ countries=[
       }
     ],
     "cioc": "GRE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Greenland",
@@ -7380,7 +7381,7 @@ countries=[
       "hu": "Grönland"
     },
     "flag": "https://flagcdn.com/gl.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Grenada",
@@ -7455,7 +7456,7 @@ countries=[
       }
     ],
     "cioc": "GRN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Guadeloupe",
@@ -7518,7 +7519,7 @@ countries=[
       "hu": "Guadeloupe"
     },
     "flag": "https://flagcdn.com/gp.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Guam",
@@ -7595,7 +7596,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/gu.svg",
     "cioc": "GUM",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Guatemala",
@@ -7678,7 +7679,7 @@ countries=[
       }
     ],
     "cioc": "GUA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Guernsey",
@@ -7754,7 +7755,7 @@ countries=[
       "hu": "Guernsey"
     },
     "flag": "https://flagcdn.com/gg.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Guinea",
@@ -7848,7 +7849,7 @@ countries=[
       }
     ],
     "cioc": "GUI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Guinea-Bissau",
@@ -7932,7 +7933,7 @@ countries=[
       }
     ],
     "cioc": "GBS",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Guyana",
@@ -8029,7 +8030,7 @@ countries=[
       }
     ],
     "cioc": "GUY",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Haiti",
@@ -8117,7 +8118,7 @@ countries=[
       }
     ],
     "cioc": "HAI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Heard Island and McDonald Islands",
@@ -8180,7 +8181,7 @@ countries=[
       "hu": "Heard-sziget és McDonald-szigetek"
     },
     "flag": "https://flagcdn.com/hm.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Vatican City",
@@ -8265,7 +8266,7 @@ countries=[
       "hu": "Vatikán"
     },
     "flag": "https://flagcdn.com/va.svg",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Honduras",
@@ -8349,7 +8350,7 @@ countries=[
       }
     ],
     "cioc": "HON",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Hungary",
@@ -8429,7 +8430,7 @@ countries=[
       }
     ],
     "cioc": "HUN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Hong Kong",
@@ -8503,7 +8504,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/hk.svg",
     "cioc": "HKG",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Iceland",
@@ -8577,7 +8578,7 @@ countries=[
       }
     ],
     "cioc": "ISL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "India",
@@ -8667,7 +8668,7 @@ countries=[
       }
     ],
     "cioc": "IND",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Indonesia",
@@ -8747,7 +8748,7 @@ countries=[
       }
     ],
     "cioc": "INA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ivory Coast",
@@ -8835,7 +8836,7 @@ countries=[
       }
     ],
     "cioc": "CIV",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Iran (Islamic Republic of)",
@@ -8911,7 +8912,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ir.svg",
     "cioc": "IRI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Iraq",
@@ -9003,7 +9004,7 @@ countries=[
       }
     ],
     "cioc": "IRQ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ireland",
@@ -9086,7 +9087,7 @@ countries=[
       }
     ],
     "cioc": "IRL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Isle of Man",
@@ -9169,7 +9170,7 @@ countries=[
         "name": "European Union"
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Israel",
@@ -9248,7 +9249,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/il.svg",
     "cioc": "ISR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Italy",
@@ -9329,7 +9330,7 @@ countries=[
       }
     ],
     "cioc": "ITA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Jamaica",
@@ -9405,7 +9406,7 @@ countries=[
       }
     ],
     "cioc": "JAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Japan",
@@ -9472,7 +9473,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/jp.svg",
     "cioc": "JPN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Jersey",
@@ -9549,7 +9550,7 @@ countries=[
       "hu": "Jersey"
     },
     "flag": "https://flagcdn.com/je.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Jordan",
@@ -9633,7 +9634,7 @@ countries=[
       }
     ],
     "cioc": "JOR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Kazakhstan",
@@ -9730,7 +9731,7 @@ countries=[
       }
     ],
     "cioc": "KAZ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Kenya",
@@ -9823,7 +9824,7 @@ countries=[
       }
     ],
     "cioc": "KEN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Kiribati",
@@ -9897,7 +9898,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ki.svg",
     "cioc": "KIR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Kuwait",
@@ -9978,7 +9979,7 @@ countries=[
       }
     ],
     "cioc": "KUW",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Kyrgyzstan",
@@ -10068,7 +10069,7 @@ countries=[
       }
     ],
     "cioc": "KGZ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Lao People's Democratic Republic",
@@ -10150,7 +10151,7 @@ countries=[
       }
     ],
     "cioc": "LAO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Latvia",
@@ -10229,7 +10230,7 @@ countries=[
       }
     ],
     "cioc": "LAT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Lebanon",
@@ -10317,7 +10318,7 @@ countries=[
       }
     ],
     "cioc": "LIB",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Lesotho",
@@ -10411,7 +10412,7 @@ countries=[
       }
     ],
     "cioc": "LES",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Liberia",
@@ -10495,7 +10496,7 @@ countries=[
       }
     ],
     "cioc": "LBR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Libya",
@@ -10591,7 +10592,7 @@ countries=[
       }
     ],
     "cioc": "LBA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Liechtenstein",
@@ -10667,7 +10668,7 @@ countries=[
       }
     ],
     "cioc": "LIE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Lithuania",
@@ -10746,7 +10747,7 @@ countries=[
       }
     ],
     "cioc": "LTU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Luxembourg",
@@ -10838,7 +10839,7 @@ countries=[
       }
     ],
     "cioc": "LUX",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Macao",
@@ -10913,7 +10914,7 @@ countries=[
       "hu": "Makaó"
     },
     "flag": "https://flagcdn.com/mo.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "North Macedonia",
@@ -10992,7 +10993,7 @@ countries=[
       }
     ],
     "cioc": "MKD",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Madagascar",
@@ -11079,7 +11080,7 @@ countries=[
       }
     ],
     "cioc": "MAD",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Malawi",
@@ -11169,7 +11170,7 @@ countries=[
       }
     ],
     "cioc": "MAW",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Malaysia",
@@ -11245,7 +11246,7 @@ countries=[
       }
     ],
     "cioc": "MAS",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Maldives",
@@ -11319,7 +11320,7 @@ countries=[
       }
     ],
     "cioc": "MDV",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Mali",
@@ -11408,7 +11409,7 @@ countries=[
       }
     ],
     "cioc": "MLI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Malta",
@@ -11487,7 +11488,7 @@ countries=[
       }
     ],
     "cioc": "MLT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Marshall Islands",
@@ -11559,7 +11560,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/mh.svg",
     "cioc": "MHL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Martinique",
@@ -11621,7 +11622,7 @@ countries=[
       "hu": "Martinique"
     },
     "flag": "https://flagcdn.com/mq.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Mauritania",
@@ -11716,7 +11717,7 @@ countries=[
       }
     ],
     "cioc": "MTN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Mauritius",
@@ -11796,7 +11797,7 @@ countries=[
       }
     ],
     "cioc": "MRI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Mayotte",
@@ -11873,7 +11874,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Mexico",
@@ -11965,7 +11966,7 @@ countries=[
       }
     ],
     "cioc": "MEX",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Micronesia (Federated States of)",
@@ -12032,7 +12033,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/fm.svg",
     "cioc": "FSM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Moldova (Republic of)",
@@ -12109,7 +12110,7 @@ countries=[
       }
     ],
     "cioc": "MDA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Monaco",
@@ -12178,7 +12179,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/mc.svg",
     "cioc": "MON",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Mongolia",
@@ -12248,7 +12249,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/mn.svg",
     "cioc": "MGL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Montenegro",
@@ -12345,7 +12346,7 @@ countries=[
       }
     ],
     "cioc": "MNE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Montserrat",
@@ -12419,7 +12420,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Morocco",
@@ -12513,7 +12514,7 @@ countries=[
       }
     ],
     "cioc": "MAR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Mozambique",
@@ -12601,7 +12602,7 @@ countries=[
       }
     ],
     "cioc": "MOZ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Myanmar",
@@ -12682,7 +12683,7 @@ countries=[
       }
     ],
     "cioc": "MYA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Namibia",
@@ -12779,7 +12780,7 @@ countries=[
       }
     ],
     "cioc": "NAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Nauru",
@@ -12854,7 +12855,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/nr.svg",
     "cioc": "NRU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Nepal",
@@ -12931,7 +12932,7 @@ countries=[
       }
     ],
     "cioc": "NEP",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Netherlands",
@@ -13009,7 +13010,7 @@ countries=[
       }
     ],
     "cioc": "NED",
-    "independent": true
+    "independent": True
   },
   {
     "name": "New Caledonia",
@@ -13072,7 +13073,7 @@ countries=[
       "hu": "Új-Kaledónia"
     },
     "flag": "https://flagcdn.com/nc.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "New Zealand",
@@ -13147,7 +13148,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/nz.svg",
     "cioc": "NZL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Nicaragua",
@@ -13230,7 +13231,7 @@ countries=[
       }
     ],
     "cioc": "NCA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Niger",
@@ -13320,7 +13321,7 @@ countries=[
       }
     ],
     "cioc": "NIG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Nigeria",
@@ -13407,7 +13408,7 @@ countries=[
       }
     ],
     "cioc": "NGR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Niue",
@@ -13475,7 +13476,7 @@ countries=[
       "hu": "Niue"
     },
     "flag": "https://flagcdn.com/nu.svg",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Norfolk Island",
@@ -13540,7 +13541,7 @@ countries=[
       "hu": "Norfolk-sziget"
     },
     "flag": "https://flagcdn.com/nf.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Korea (Democratic People's Republic of)",
@@ -13612,7 +13613,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/kp.svg",
     "cioc": "PRK",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Northern Mariana Islands",
@@ -13683,7 +13684,7 @@ countries=[
       "hu": "Északi-Mariana-szigetek"
     },
     "flag": "https://flagcdn.com/mp.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Norway",
@@ -13776,7 +13777,7 @@ countries=[
       }
     ],
     "cioc": "NOR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Oman",
@@ -13858,7 +13859,7 @@ countries=[
       }
     ],
     "cioc": "OMA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Pakistan",
@@ -13944,7 +13945,7 @@ countries=[
       }
     ],
     "cioc": "PAK",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Palau",
@@ -14010,7 +14011,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/pw.svg",
     "cioc": "PLW",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Palestine, State of",
@@ -14102,7 +14103,7 @@ countries=[
       }
     ],
     "cioc": "PLE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Panama",
@@ -14190,7 +14191,7 @@ countries=[
       }
     ],
     "cioc": "PAN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Papua New Guinea",
@@ -14260,7 +14261,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/pg.svg",
     "cioc": "PNG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Paraguay",
@@ -14356,7 +14357,7 @@ countries=[
       }
     ],
     "cioc": "PAR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Peru",
@@ -14454,7 +14455,7 @@ countries=[
       }
     ],
     "cioc": "PER",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Philippines",
@@ -14527,7 +14528,7 @@ countries=[
       }
     ],
     "cioc": "PHI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Pitcairn",
@@ -14596,7 +14597,7 @@ countries=[
       "hu": "Pitcairn-szigetek"
     },
     "flag": "https://flagcdn.com/pn.svg",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Poland",
@@ -14678,7 +14679,7 @@ countries=[
       }
     ],
     "cioc": "POL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Portugal",
@@ -14756,7 +14757,7 @@ countries=[
       }
     ],
     "cioc": "POR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Puerto Rico",
@@ -14828,7 +14829,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/pr.svg",
     "cioc": "PUR",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Qatar",
@@ -14908,7 +14909,7 @@ countries=[
       }
     ],
     "cioc": "QAT",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Republic of Kosovo",
@@ -14991,7 +14992,7 @@ countries=[
         "name": "Central European Free Trade Agreement"
       }
     ],
-    "independent": true
+    "independent": True
   },
   {
     "name": "Réunion",
@@ -15067,7 +15068,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Romania",
@@ -15148,7 +15149,7 @@ countries=[
       }
     ],
     "cioc": "ROU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Russian Federation",
@@ -15250,7 +15251,7 @@ countries=[
       }
     ],
     "cioc": "RUS",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Rwanda",
@@ -15349,7 +15350,7 @@ countries=[
       }
     ],
     "cioc": "RWA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Saint Barthélemy",
@@ -15415,7 +15416,7 @@ countries=[
       "hu": "Saint-Barthélemy"
     },
     "flag": "https://flagcdn.com/bl.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -15490,7 +15491,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Saint Kitts and Nevis",
@@ -15566,7 +15567,7 @@ countries=[
       }
     ],
     "cioc": "SKN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Saint Lucia",
@@ -15642,7 +15643,7 @@ countries=[
       }
     ],
     "cioc": "LCA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Saint Martin (French part)",
@@ -15725,7 +15726,7 @@ countries=[
       "hu": "Saint-Martin"
     },
     "flag": "https://flagcdn.com/mf.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Saint Pierre and Miquelon",
@@ -15789,7 +15790,7 @@ countries=[
       "hu": "Saint-Pierre és Miquelon"
     },
     "flag": "https://flagcdn.com/pm.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Saint Vincent and the Grenadines",
@@ -15864,7 +15865,7 @@ countries=[
       }
     ],
     "cioc": "VIN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Samoa",
@@ -15937,7 +15938,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ws.svg",
     "cioc": "SAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "San Marino",
@@ -16006,7 +16007,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/sm.svg",
     "cioc": "SMR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sao Tome and Principe",
@@ -16086,7 +16087,7 @@ countries=[
       }
     ],
     "cioc": "STP",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Saudi Arabia",
@@ -16172,7 +16173,7 @@ countries=[
       }
     ],
     "cioc": "KSA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Senegal",
@@ -16259,7 +16260,7 @@ countries=[
       }
     ],
     "cioc": "SEN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Serbia",
@@ -16344,7 +16345,7 @@ countries=[
       }
     ],
     "cioc": "SRB",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Seychelles",
@@ -16431,7 +16432,7 @@ countries=[
       }
     ],
     "cioc": "SEY",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sierra Leone",
@@ -16514,7 +16515,7 @@ countries=[
       }
     ],
     "cioc": "SLE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Singapore",
@@ -16605,7 +16606,7 @@ countries=[
       }
     ],
     "cioc": "SIN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sint Maarten (Dutch part)",
@@ -16677,7 +16678,7 @@ countries=[
       "hu": "Sint Maarten"
     },
     "flag": "https://flagcdn.com/sx.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Slovakia",
@@ -16757,7 +16758,7 @@ countries=[
       }
     ],
     "cioc": "SVK",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Slovenia",
@@ -16836,7 +16837,7 @@ countries=[
       }
     ],
     "cioc": "SLO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Solomon Islands",
@@ -16901,7 +16902,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/sb.svg",
     "cioc": "SOL",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Somalia",
@@ -17003,7 +17004,7 @@ countries=[
       }
     ],
     "cioc": "SOM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "South Africa",
@@ -17146,7 +17147,7 @@ countries=[
       }
     ],
     "cioc": "RSA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "South Georgia and the South Sandwich Islands",
@@ -17226,7 +17227,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Korea (Republic of)",
@@ -17295,7 +17296,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/kr.svg",
     "cioc": "KOR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Spain",
@@ -17376,7 +17377,7 @@ countries=[
       }
     ],
     "cioc": "ESP",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sri Lanka",
@@ -17458,7 +17459,7 @@ countries=[
       }
     ],
     "cioc": "SRI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sudan",
@@ -17562,7 +17563,7 @@ countries=[
       }
     ],
     "cioc": "SUD",
-    "independent": true
+    "independent": True
   },
   {
     "name": "South Sudan",
@@ -17648,7 +17649,7 @@ countries=[
       }
     ],
     "cioc": "SSD",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Suriname",
@@ -17749,7 +17750,7 @@ countries=[
       }
     ],
     "cioc": "SUR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Svalbard and Jan Mayen",
@@ -17812,7 +17813,7 @@ countries=[
       "hu": "Spitzbergák és Jan Mayen-szigetek"
     },
     "flag": "https://flagcdn.com/sj.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Swaziland",
@@ -17905,7 +17906,7 @@ countries=[
       }
     ],
     "cioc": "SWZ",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Sweden",
@@ -17982,7 +17983,7 @@ countries=[
       }
     ],
     "cioc": "SWE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Switzerland",
@@ -18081,7 +18082,7 @@ countries=[
       }
     ],
     "cioc": "SUI",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Syrian Arab Republic",
@@ -18166,7 +18167,7 @@ countries=[
       }
     ],
     "cioc": "SYR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Taiwan",
@@ -18234,7 +18235,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tw.svg",
     "cioc": "TPE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Tajikistan",
@@ -18315,7 +18316,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tj.svg",
     "cioc": "TJK",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Tanzania, United Republic of",
@@ -18411,7 +18412,7 @@ countries=[
       }
     ],
     "cioc": "TAN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Thailand",
@@ -18493,7 +18494,7 @@ countries=[
       }
     ],
     "cioc": "THA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Timor-Leste",
@@ -18565,7 +18566,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tl.svg",
     "cioc": "TLS",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Togo",
@@ -18651,7 +18652,7 @@ countries=[
       }
     ],
     "cioc": "TOG",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Tokelau",
@@ -18714,7 +18715,7 @@ countries=[
       "hu": "Tokelau-szigetek"
     },
     "flag": "https://flagcdn.com/tk.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Tonga",
@@ -18785,7 +18786,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/to.svg",
     "cioc": "TGA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Trinidad and Tobago",
@@ -18862,7 +18863,7 @@ countries=[
       }
     ],
     "cioc": "TTO",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Tunisia",
@@ -18955,7 +18956,7 @@ countries=[
       }
     ],
     "cioc": "TUN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Turkey",
@@ -19033,7 +19034,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tr.svg",
     "cioc": "TUR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Turkmenistan",
@@ -19110,7 +19111,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tm.svg",
     "cioc": "TKM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Turks and Caicos Islands",
@@ -19173,7 +19174,7 @@ countries=[
       "hu": "Turks- és Caicos-szigetek"
     },
     "flag": "https://flagcdn.com/tc.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Tuvalu",
@@ -19243,7 +19244,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/tv.svg",
     "cioc": "TUV",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Uganda",
@@ -19336,7 +19337,7 @@ countries=[
       }
     ],
     "cioc": "UGA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Ukraine",
@@ -19411,7 +19412,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/ua.svg",
     "cioc": "UKR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "United Arab Emirates",
@@ -19492,7 +19493,7 @@ countries=[
       }
     ],
     "cioc": "UAE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "United Kingdom of Great Britain and Northern Ireland",
@@ -19570,7 +19571,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/gb.svg",
     "cioc": "GBR",
-    "independent": true
+    "independent": True
   },
   {
     "name": "United States of America",
@@ -19661,7 +19662,7 @@ countries=[
       }
     ],
     "cioc": "USA",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Uruguay",
@@ -19749,7 +19750,7 @@ countries=[
       }
     ],
     "cioc": "URU",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Uzbekistan",
@@ -19830,7 +19831,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/uz.svg",
     "cioc": "UZB",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Vanuatu",
@@ -19910,7 +19911,7 @@ countries=[
     },
     "flag": "https://flagcdn.com/vu.svg",
     "cioc": "VAN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Venezuela (Bolivarian Republic of)",
@@ -19999,7 +20000,7 @@ countries=[
       }
     ],
     "cioc": "VEN",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Vietnam",
@@ -20077,7 +20078,7 @@ countries=[
       }
     ],
     "cioc": "VIE",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Wallis and Futuna",
@@ -20142,7 +20143,7 @@ countries=[
       "hu": "Wallis és Futuna"
     },
     "flag": "https://flagcdn.com/wf.svg",
-    "independent": false
+    "independent": False
   },
   {
     "name": "Western Sahara",
@@ -20229,7 +20230,7 @@ countries=[
         ]
       }
     ],
-    "independent": false
+    "independent": False
   },
   {
     "name": "Yemen",
@@ -20311,7 +20312,7 @@ countries=[
       }
     ],
     "cioc": "YEM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Zambia",
@@ -20400,7 +20401,7 @@ countries=[
       }
     ],
     "cioc": "ZAM",
-    "independent": true
+    "independent": True
   },
   {
     "name": "Zimbabwe",
@@ -20497,6 +20498,6 @@ countries=[
       }
     ],
     "cioc": "ZIM",
-    "independent": true
+    "independent": True
   }
 ]
