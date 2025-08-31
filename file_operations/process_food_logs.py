@@ -20,3 +20,20 @@ for line in fr:
 
 print(food_logs)
 
+daily_summary ={}
+
+for food in food_logs:
+
+    date = food.get("date")
+
+    calories = int(food.get("calories"))
+
+    if date in daily_summary:
+
+        daily_summary[date] +=calories
+
+    else:
+
+        daily_summary[date] = calories
+
+print(daily_summary)
