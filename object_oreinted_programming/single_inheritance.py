@@ -1,4 +1,9 @@
 
+#single inheritance
+#one child class acquring methods and attributes from one parent class
+
+
+
 class Parent:
 
     def car(self):

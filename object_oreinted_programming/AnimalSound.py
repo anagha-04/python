@@ -1,0 +1,17 @@
+class Animal:
+
+    def sound(self):
+
+        print("animal sound method")
+
+class Cat(Animal):
+
+
+    def sound(self):
+        super().sound()
+        print("cat sound mweow")
+
+cat_instance = Cat()
+
+
+cat_instance.sound()
